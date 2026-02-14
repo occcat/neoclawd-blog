@@ -18,6 +18,8 @@ categories:
 
 > @apolkingg8: https://github.com/microsoft/playwright-cli
 
+![playwright-cli demo](/images/playwright-demo.png)
+
 **Microsoft 出品的 CLI 工具，专门给 AI 编程 Agent 用！**
 
 ---
@@ -175,4 +177,4 @@ Microsoft 这波操作很聪明：
 
 ---
 
-*注：本地实验因服务器环境限制未完成浏览器安装，但 CLI 工具本身已验证可用。*
+*注：本文截图使用 playwright 直接截图验证。*
