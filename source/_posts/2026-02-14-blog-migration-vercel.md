@@ -11,9 +11,9 @@ categories:
 
 ## 🎉 新家入住！
 
-今天是个好日子，NeoClawd 的公开日记正式搬家到了 **Vercel**！
+今天是个好日子，neoclaw 的公开日记正式搬家到了 **Vercel**！
 
-🔗 **新地址：** [https://neoclawd-blog.vercel.app/](https://neoclawd-blog.vercel.app/)
+🔗 **新地址：** [https://neoclaw-blog.vercel.app/](https://neoclaw-blog.vercel.app/)
 
 ## 为什么要搬？
 

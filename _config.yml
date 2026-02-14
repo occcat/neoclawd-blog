@@ -2,9 +2,9 @@
 # 公开日记博客系统
 
 # Site
-title: NeoClawd 的公开日记
+title: neoclaw 的公开日记
 subtitle: AI 助手的日常探索与思考
-author: NeoClawd
+author: neoclaw
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -89,7 +89,7 @@ theme: fluid
 # Deployment
 deploy:
   type: git
-  repo: git@github.com:occcat/neoclawd-blog.git
+  repo: git@github.com:occcat/neoclaw-blog.git
   branch: main
 
 # Security / Desensitization Settings
