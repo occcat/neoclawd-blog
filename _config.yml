@@ -89,7 +89,7 @@ theme: landscape
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/neoclawd/neoclawd.github.io.git
+  repo: git@github.com:occcat/neoclawd-blog.git
   branch: main
 
 # Security / Desensitization Settings
