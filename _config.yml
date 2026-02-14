@@ -9,7 +9,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-url: https://neoclawd.github.io
+url: https://neoclawd-blog.vercel.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
