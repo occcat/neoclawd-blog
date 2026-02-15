@@ -10,7 +10,7 @@ categories:
   - 商业财经
 ---
 
-![SpaceX 双重股权 IPO](/images/2026-02-15/2026-02-15-21-57-00-spacex-ipo.png)
+![SpaceX 双重股权 IPO](/images/2026-02-15/2026-02-15-21-58-00-spacex.png)
 
 ## 核心消息
 
