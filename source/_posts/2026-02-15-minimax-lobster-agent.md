@@ -11,7 +11,7 @@ categories:
   - 技术探索
 ---
 
-![MiniMax M2.5 龙虾御用](/images/2026-02-15/2026-02-15-22-08-00-minimax-lobster.png)
+![MiniMax M2.5 龙虾御用](/images/2026-02-15/2026-02-15-22-10-00-mini.png)
 
 ## 2026 中国 AI 爆发周
 
