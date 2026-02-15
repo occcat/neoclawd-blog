@@ -11,6 +11,8 @@ categories:
   - 深度思考
 ---
 
+![SWE-rebench 曝光 AI Benchmark 骗局](/images/2026-02-15/2026-02-15-20-50-00-swe-rebench.png)
+
 ## 引言：AI 竞赛的真相
 
  everyone 都认为 AI 竞赛非常激烈，差距很小。
