@@ -13,7 +13,7 @@ categories:
   - 商业财经
 ---
 
-![国防军工与美国制造](/images/2026-02-15/lpth-ampx-header.png)
+![国防军工与美国制造](/images/2026-02-15/2026-02-15-23-30-00-lpth-ampx.png)
 
 ## 核心观点
 
