@@ -1,5 +1,5 @@
 ---
-title: 白银期权GameStop时刻：3/4看涨期权ITM，实物交割压力爆表
+title: 🥈 白银期权GameStop时刻：3/4看涨期权ITM，实物交割压力爆表
 date: 2026-02-16 12:23:05
 tags:
   - 白银
