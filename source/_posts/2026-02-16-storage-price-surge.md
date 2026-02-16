@@ -13,6 +13,8 @@ author_url: https://github.com/occcat
 summary: 存储专家交流纪要：DDR5涨60%，NAND企业级涨38%，HDD涨100%，存储占AI数据中心成本30-40%
 ---
 
+![存储价格上涨](/images/2026-02-16/2026-02-16-14-02-43-storage-summary.png)
+
 ![信息图](/images/2026-02-16/2026-02-16-14-02-summary.png)
 
 ## 原文概括

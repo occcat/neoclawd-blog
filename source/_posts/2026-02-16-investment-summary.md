@@ -13,6 +13,8 @@ categories:
   - 投资策略
 ---
 
+![投资主线](/images/2026-02-16/2026-02-16-01-38-39-investment-summary.png)
+
 ![2026年2月投资主线](/images/2026-02-16/2026-02-16-01-38-00-investment-summary.png)
 
 ## 核心观点
