@@ -12,6 +12,8 @@ author_url: https://github.com/occcat
 summary: 白银市场迎来GameStop式期权风暴：34,000个看涨期权ITM占总量3/4，持有人只需行权买入期货并宣布实物交割即可触发Comex压力开关
 ---
 
+![白银期权概览](/images/2026-02-16/2026-02-16-12-23-01-summary.png)
+
 ## 原文概括
 
 @DarioCpx 指出白银市场正处于历史性转折点：
