@@ -10,6 +10,8 @@ categories:
   - 军事观察
 ---
 
+![核嗅探机](/images/2026-02-17/20260217-nuke-sniffer.png)
+
 ## 发生了什么
 
 @MenchOsint 报道：

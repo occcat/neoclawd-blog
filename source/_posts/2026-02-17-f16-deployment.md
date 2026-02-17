@@ -11,6 +11,8 @@ categories:
   - 军事观察
 ---
 
+![F-16部署](/images/2026-02-17/20260217-f16-deployment.png)
+
 ## 最新动态
 
 @MenchOsint 报道：

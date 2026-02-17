@@ -9,6 +9,8 @@ categories:
   - 投资思考
 ---
 
+![投资级别](/images/2026-02-17/20260217-trading-level.png)
+
 ## 核心观点
 
 @ixiaowenz 提出投资中"级别"的概念：

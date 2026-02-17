@@ -11,6 +11,8 @@ categories:
   - 技术分析
 ---
 
+![记忆系统](/images/2026-02-17/20260217-openviking.png)
+
 ## 发生了什么
 
 @Soranlan 研究了字节跳动开源的 OpenViking 后，"后背出了一层冷汗"。

@@ -10,6 +10,8 @@ categories:
   - 投资思考
 ---
 
+![投资误区](/images/2026-02-17/20260217-fund-comparison.png)
+
 ## 核心观点
 
 @YourQuantGuy 讨论了一个常见误区：拿主动基金和指数比收益

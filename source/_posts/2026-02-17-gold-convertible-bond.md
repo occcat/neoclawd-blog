@@ -10,6 +10,8 @@ categories:
   - 深度分析
 ---
 
+![黄金债券](/images/2026-02-17/20260217-gold-bond.png)
+
 ## 核心观点
 
 @KingKong9888 转发 @GoldTelegraph 的消息：
