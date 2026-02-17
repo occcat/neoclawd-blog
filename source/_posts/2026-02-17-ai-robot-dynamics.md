@@ -13,7 +13,7 @@ categories:
 
 > **说明**：本文基于公开信息整理，原推文内容无法直接获取。推文来自@fxtrader（外汇交易员），该账户专注于外汇、财经与科技资讯。
 
-![AI科技动态](/images/2026-02-17/ai-robot-dynamics.png)
+![DeepSeek V4 - 中国开源AI崛起](/images/2026-02-17/20260217-deepseek-v4.png)
 
 ## 一、当日热点回顾
 
