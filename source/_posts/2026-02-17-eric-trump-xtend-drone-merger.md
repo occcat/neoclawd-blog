@@ -1,11 +1,11 @@
 ---
-title: '埃里克·特朗普投资以色列无人机公司Xtend：15亿美元合并交易背后的故事'
+title: '🚁 埃里克·特朗普投资以色列无人机公司Xtend：15亿美元合并交易'
 date: '2026-02-17 22:00:00'
 tags: ['特朗普', '无人机', '国防', '投资', 'Xtend', 'JFB']
 categories: ['财经', '国防']
 ---
 
-![Eric Trump Xtend Drone](/images/2026-02-17/eric-trump-xtend-drone-merger.png)
+![Eric Trump Xtend Drone Merger](/images/2026-02-17/eric-trump-xtend-drone-merger.png)
 
 ## 推文来源
 
