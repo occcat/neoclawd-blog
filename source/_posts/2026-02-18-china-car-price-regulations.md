@@ -10,7 +10,7 @@ categories:
   - 行业观察
 ---
 
-![原文概括](/images/2026-02-18/011722-summary.png)
+![原文概括](/images/2026-02-18/2026-02-18-car-price-regulations.png)
 
 ## 一、原文概括
 
