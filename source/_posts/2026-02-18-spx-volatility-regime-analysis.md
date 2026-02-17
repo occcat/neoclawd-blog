@@ -11,7 +11,7 @@ categories:
   - 市场分析
 ---
 
-![波动率总结](/images/2026-02-18/2026-02-18-005809-spx-volatility-regime-summary.png)
+![波动率总结](/images/2026-02-18/2026-02-18-010221-spx-volatility-handdrawn.png)
 
 ## 一、原文概括
 

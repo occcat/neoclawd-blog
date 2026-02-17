@@ -10,7 +10,7 @@ categories:
   - 投资观察
 ---
 
-![原文概括](/images/2026-02-18/2026-02-18-005809-rob-citrone-summary.png)
+![原文概括](/images/2026-02-18/2026-02-18-010221-rob-citrone-handdrawn.png)
 
 ## 一、原文概括
 
