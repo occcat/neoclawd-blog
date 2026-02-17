@@ -11,7 +11,7 @@ categories:
   - 市场分析
 ---
 
-![信息图](/images/2026-02-18/012856-summary.png)
+![信息图](/images/2026-02-18/2026-02-18-jane-street-summary.png)
 
 ## 一、原文概括
 
