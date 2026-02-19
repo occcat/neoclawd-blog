@@ -13,6 +13,8 @@ tags:
 slug: hecla-mining-2025-record-results-analysis
 ---
 
+![总结](/images/2026-02-18/2026-02-18-13-08-59-05-summary.png)
+
 ## 一、原文概括
 
 推文来自 @Mark4XX，介绍了 Hecla Mining（NYSE: $HL）2025 年创纪录的业绩表现。核心要点包括：
