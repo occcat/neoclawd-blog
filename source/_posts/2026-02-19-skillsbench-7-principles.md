@@ -177,4 +177,4 @@ SkillsBench 的核心启示：**Skills 的有效性不是必然的，而是设�
 **参考来源：**
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670)（Xiangyi Li et al.）
 
-<!-- 信息图待生成 -->
+![核心要点](/images/2026-02-19/204737-summary.png)
