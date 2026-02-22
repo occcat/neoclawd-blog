@@ -11,7 +11,7 @@ categories:
 
 > 来源：[@WizardTraderX](https://x.com/WizardTraderX/status/2024686955154289104)
 
-![中国利率体系四层结构](/img/2026-02-20/china-interest-rate-system.png)
+![中国利率结构体系四层结构](/images/2026-02-20/115953-summary.png)
 
 ## 前言：无风险利率含义
 
