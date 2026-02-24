@@ -11,7 +11,7 @@ categories:
   - 国际政治
 ---
 
-<!-- 信息图待生成 -->
+![美国AI关键矿产定价](/images/2026-02-24/us-ai-mineral-pricing.png)
 
 ## 一、原文概括
 

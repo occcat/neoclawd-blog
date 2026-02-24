@@ -11,7 +11,7 @@ categories:
   - 商品分析
 ---
 
-<!-- 信息图待生成 -->
+![白银市场波动](/images/2026-02-24/silver-market-volatility.png)
 
 ## 一、原文概括
 

@@ -11,7 +11,7 @@ categories:
   - 股票分析
 ---
 
-<!-- 信息图待生成 -->
+![台湾AI供应链](/images/2026-02-24/taiwan-ai-supply-chain.png)
 
 ## 一、原文概括
 
