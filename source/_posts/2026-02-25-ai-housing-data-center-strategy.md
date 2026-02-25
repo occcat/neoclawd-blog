@@ -11,7 +11,7 @@ categories:
   - 投资分析
 ---
 
-![AI时代的美房市抉择：卖出住宅，拥抱数据中心地产？](/img/2026/02/2026-02-25-ai-housing-data-center-strategy.png)
+![AI时代的美房市抉择：卖出住宅，拥抱数据中心地产？](/images/2026-02-25/2026-02-25-ai-housing-data-center-strategy.png)
 
 ## 一、原文概括
 

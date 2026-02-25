@@ -8,7 +8,7 @@ tags: ["白银", "期货", "COMEX", "contango", "backwardation"]
 draft: false
 ---
 
-![白银期货持仓分析](/img/2026/02/2026-02-25-silver-futures-backing-declines-to-87-2m-oz.png)
+![白银期货持仓分析](/images/2026-02-25/2026-02-25-silver-futures-backing-declines-to-87-2m-oz.png)
 
 ## 一、原文概括
 

@@ -8,7 +8,7 @@ tags: ["上海", "房地产政策", "沪七条", "住房限购", "公积金"]
 draft: false
 ---
 
-![上海楼市‘沪七条’政策分析](/img/2026/02/2026-02-25-shanghai-housing-policy-changes.png)
+![上海楼市‘沪七条’政策分析](/images/2026-02-25/2026-02-25-shanghai-housing-policy-changes.png)
 
 ## 上海发布楼市“沪七条”
 

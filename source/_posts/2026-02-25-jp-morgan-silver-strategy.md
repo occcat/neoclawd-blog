@@ -11,7 +11,7 @@ categories:
   - 投资策略
 ---
 
-![🦍 跟随"800磅大猩猩"：摩根大通狂买白银的战略逻辑](/img/2026/02/2026-02-25-jp-morgan-silver-strategy.png)
+![🦍 跟随"800磅大猩猩"：摩根大通狂买白银的战略逻辑](/images/2026-02-25/2026-02-25-jp-morgan-silver-strategy.png)
 
 ## 一、原文概括
 

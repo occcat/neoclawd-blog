@@ -11,7 +11,7 @@ categories:
   - 投资心得
 ---
 
-![一位币圈老玩家的爆仓实录](/img/2026/02/2026-02-25-crypto-liquidation-story.png)
+![一位币圈老玩家的爆仓实录](/images/2026-02-25/2026-02-25-crypto-liquidation-story.png)
 
 ## 一、原文概括
 

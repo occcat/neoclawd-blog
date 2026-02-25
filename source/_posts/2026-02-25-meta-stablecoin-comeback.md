@@ -12,7 +12,7 @@ categories:
   - 加密货币
 ---
 
-![🚀 Meta稳定币重磅回归：美元霸权的新武器？](/img/2026/02/2026-02-25-meta-stablecoin-comeback.png)
+![🚀 Meta稳定币重磅回归：美元霸权的新武器？](/images/2026-02-25/2026-02-25-meta-stablecoin-comeback.png)
 
 ## 一、原文概括
 

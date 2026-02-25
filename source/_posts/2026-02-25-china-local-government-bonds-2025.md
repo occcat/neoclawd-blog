@@ -8,7 +8,7 @@ tags: ["地方政府债券", "财政政策", "债务管理"]
 draft: false
 ---
 
-![2025年中国地方政府债券概况](/img/2026/02/2026-02-25-china-local-government-bonds-2025.png)
+![2025年中国地方政府债券概况](/images/2026-02-25/2026-02-25-china-local-government-bonds-2025.png)
 
 ## 一、原文概括
 

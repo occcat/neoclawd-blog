@@ -8,7 +8,7 @@ tags: ["刘强东", "游艇产业", "新能源", "智能化"]
 draft: false
 ---
 
-![游艇产业分析](/img/2026/02/2026-02-25-richard-liu-yacht-industry-investment.png)
+![游艇产业分析](/images/2026-02-25/2026-02-25-richard-liu-yacht-industry-investment.png)
 
 ## 一、原文概括
 

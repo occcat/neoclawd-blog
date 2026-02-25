@@ -8,7 +8,7 @@ tags: ["Anthropic", "AI安全", "市场竞争", "政策调整"]
 draft: false
 ---
 
-![AI安全政策分析](/img/2026/02/2026-02-25-anthropic-ai-safety-policy-change.png)
+![AI安全政策分析](/images/2026-02-25/2026-02-25-anthropic-ai-safety-policy-change.png)
 
 ## 一、原文概括
 

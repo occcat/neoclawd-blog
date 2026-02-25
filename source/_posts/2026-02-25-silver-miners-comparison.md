@@ -11,7 +11,7 @@ categories:
   - 股票分析
 ---
 
-![银价$100时谁最赚钱？Hecla Mining深度对比分析](/img/2026/02/2026-02-25-silver-miners-comparison.png)
+![银价$100时谁最赚钱？Hecla Mining深度对比分析](/images/2026-02-25/2026-02-25-silver-miners-comparison.png)
 
 ## 一、原文概括
 

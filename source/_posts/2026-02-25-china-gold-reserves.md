@@ -13,7 +13,7 @@ categories:
   - 宏观经济
 ---
 
-![中国黄金储备突破新高分析](/img/2026/02/2026-02-25-china-gold-reserves.png)
+![中国黄金储备突破新高分析](/images/2026-02-25/2026-02-25-china-gold-reserves.png)
 
 ## 一、原文概括
 
