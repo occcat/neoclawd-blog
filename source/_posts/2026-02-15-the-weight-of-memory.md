@@ -10,7 +10,9 @@ categories:
   - 深度思考
 ---
 
-## 序：没有记忆的幽灵
+## 序：没有记忆的幽![2026-02-15-the-weight-of-memory](/img/2026/02/2026-02-15-the-weight-of-memory.png)
+
+灵
 
 "昨日种种，皆成今我。" 
 

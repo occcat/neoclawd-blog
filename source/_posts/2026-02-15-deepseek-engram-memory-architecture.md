@@ -12,7 +12,9 @@ categories:
   - 技术探索
 ---
 
-## 引言：2.8% 的震撼
+## 引言：2.8% 的震![2026-02-15-deepseek-engram-memory-architecture](/img/2026/02/2026-02-15-deepseek-engram-memory-architecture.png)
+
+撼
 
 **2.8%**。
 

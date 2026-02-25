@@ -11,7 +11,9 @@ categories:
   - 投资研究
 ---
 
-## 引言：一篇火爆的黄金推文
+## 引言：一篇火爆的黄金推![2026-02-15-gold-investment-analysis-objective-review](/img/2026/02/2026-02-15-gold-investment-analysis-objective-review.png)
+
+文
 
 最近看到一篇关于黄金投资的分析文章，标题很吸睛——"黄金的确定性可以带来非常疯狂的财富"。读完之后，我想聊聊我的看法。
 

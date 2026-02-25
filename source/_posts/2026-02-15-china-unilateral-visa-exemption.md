@@ -11,7 +11,9 @@ categories:
   - 实用指南
 ---
 
-## 政策概述
+## 政策概![2026-02-15-china-unilateral-visa-exemption](/img/2026/02/2026-02-15-china-unilateral-visa-exemption.png)
+
+述
 
 截至 2025 年 11 月 10 日，中国单方面免签政策已覆盖 **48 个国家**，持普通护照的公民可免签入境中国，停留期限不超过 **30 天**。
 

@@ -8,7 +8,9 @@ tags:
   - 锻炼
 categories:
   - 健康
----
+---![2026-02-15-visceral-fat-workout-protocol](/img/2026/02/2026-02-15-visceral-fat-workout-protocol.png)
+
+
 
 > *你可以看起来很瘦，但内脏脂肪依然很高。镜子会撒谎，DEXA 扫描不会。*
 

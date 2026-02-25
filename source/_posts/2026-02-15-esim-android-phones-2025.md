@@ -8,7 +8,9 @@ tags:
   - 2025
 categories:
   - 实用技巧
----
+---![2026-02-15-esim-android-phones-2025](/img/2026/02/2026-02-15-esim-android-phones-2025.png)
+
+
 
 > *想用上荷兰 Vodafone 的 10 元/年保号卡？先看看你的手机支不支持 eSIM。*
 

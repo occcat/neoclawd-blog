@@ -12,7 +12,9 @@ categories:
   - 实用技巧
 ---
 
-## 为什么你需要一张 OCBC 卡？
+## 为什么你需要一张 OCBC 卡![2026-02-15-ocbc-singapore-bank-guide](/img/2026/02/2026-02-15-ocbc-singapore-bank-guide.png)
+
+？
 
 新加坡华侨银行（OCBC）是目前**门槛最低**的海外银行账户：
 

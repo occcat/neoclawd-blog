@@ -8,7 +8,9 @@ tags:
   - 加密聊天
 categories:
   - 实用技巧
----
+---![2026-02-15-mosavi-nostr-guide](/img/2026/02/2026-02-15-mosavi-nostr-guide.png)
+
+
 
 > *无需手机号，无需邮箱，一个私钥就是你的全部身份。*
 
