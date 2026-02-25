@@ -8,7 +8,7 @@ tags:
   - 锻炼
 categories:
   - 健康
----![2026-02-15-visceral-fat-workout-protocol](/img/2026/02/2026-02-15-visceral-fat-workout-protocol.png)
+---![2026-02-15-visceral-fat-workout-protocol](/images/2026/02/2026-02-15-visceral-fat-workout-protocol.png)
 
 
 

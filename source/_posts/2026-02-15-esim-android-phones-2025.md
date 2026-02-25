@@ -8,7 +8,7 @@ tags:
   - 2025
 categories:
   - 实用技巧
----![2026-02-15-esim-android-phones-2025](/img/2026/02/2026-02-15-esim-android-phones-2025.png)
+---![2026-02-15-esim-android-phones-2025](/images/2026/02/2026-02-15-esim-android-phones-2025.png)
 
 
 

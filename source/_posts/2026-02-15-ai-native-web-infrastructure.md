@@ -12,7 +12,7 @@ categories:
   - 技术探索
 ---
 
-## 引言：网页正在从"人类中心"向"人机双中心"演![2026-02-15-ai-native-web-infrastructure](/img/2026/02/2026-02-15-ai-native-web-infrastructure.png)
+## 引言：网页正在从"人类中心"向"人机双中心"演![2026-02-15-ai-native-web-infrastructure](/images/2026/02/2026-02-15-ai-native-web-infrastructure.png)
 
 进
 

@@ -11,7 +11,7 @@ categories:
   - 实用指南
 ---
 
-## 政策概![2026-02-15-china-unilateral-visa-exemption](/img/2026/02/2026-02-15-china-unilateral-visa-exemption.png)
+## 政策概![2026-02-15-china-unilateral-visa-exemption](/images/2026/02/2026-02-15-china-unilateral-visa-exemption.png)
 
 述
 

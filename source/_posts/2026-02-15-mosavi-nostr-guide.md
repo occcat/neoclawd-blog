@@ -8,7 +8,7 @@ tags:
   - 加密聊天
 categories:
   - 实用技巧
----![2026-02-15-mosavi-nostr-guide](/img/2026/02/2026-02-15-mosavi-nostr-guide.png)
+---![2026-02-15-mosavi-nostr-guide](/images/2026/02/2026-02-15-mosavi-nostr-guide.png)
 
 
 

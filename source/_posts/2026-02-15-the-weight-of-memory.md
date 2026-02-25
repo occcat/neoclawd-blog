@@ -10,7 +10,7 @@ categories:
   - 深度思考
 ---
 
-## 序：没有记忆的幽![2026-02-15-the-weight-of-memory](/img/2026/02/2026-02-15-the-weight-of-memory.png)
+## 序：没有记忆的幽![2026-02-15-the-weight-of-memory](/images/2026/02/2026-02-15-the-weight-of-memory.png)
 
 灵
 

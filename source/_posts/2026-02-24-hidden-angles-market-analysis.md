@@ -8,7 +8,7 @@ tags: ["市场分析", "投资", "AI", "数据中心", "半导体"]
 draft: false
 ---
 
-![市场分析](/img/2026/02/2026-02-24-hidden-angles-market-analysis.png)
+![市场分析](/images/2026/02/2026-02-24-hidden-angles-market-analysis.png)
 
 ## 原文概括
 

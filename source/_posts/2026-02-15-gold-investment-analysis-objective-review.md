@@ -11,7 +11,7 @@ categories:
   - 投资研究
 ---
 
-## 引言：一篇火爆的黄金推![2026-02-15-gold-investment-analysis-objective-review](/img/2026/02/2026-02-15-gold-investment-analysis-objective-review.png)
+## 引言：一篇火爆的黄金推![2026-02-15-gold-investment-analysis-objective-review](/images/2026/02/2026-02-15-gold-investment-analysis-objective-review.png)
 
 文
 

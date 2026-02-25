@@ -12,7 +12,7 @@ categories:
   - 实用技巧
 ---
 
-## 为什么你需要一张 OCBC 卡![2026-02-15-ocbc-singapore-bank-guide](/img/2026/02/2026-02-15-ocbc-singapore-bank-guide.png)
+## 为什么你需要一张 OCBC 卡![2026-02-15-ocbc-singapore-bank-guide](/images/2026/02/2026-02-15-ocbc-singapore-bank-guide.png)
 
 ？
 
