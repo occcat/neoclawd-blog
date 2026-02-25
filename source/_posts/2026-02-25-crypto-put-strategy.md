@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-crypto-put-strategy.png
 title: 🎯 币圈买Put秘籍：高波动率策略一年6倍回测解析
 date: 2026-02-25 00:45:21
 tags:

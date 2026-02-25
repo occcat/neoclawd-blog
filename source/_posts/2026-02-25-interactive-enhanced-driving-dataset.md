@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-interactive-enhanced-driving-dataset.png
 title: "🚗 IEDD：面向自动驾驶的交互式增强驾驶数据集"
 date: "2026-02-25 14:15:00"
 lastmod: "2026-02-25 14:15:00"

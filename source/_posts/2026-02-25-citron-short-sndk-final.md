@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-citron-short-sndk-final.png
 title: 📉 Citron做空SanDisk：内存周期顶部的警告
 date: 2026-02-25 10:21:54
 tags:

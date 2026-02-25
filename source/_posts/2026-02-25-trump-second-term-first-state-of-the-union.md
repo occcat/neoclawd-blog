@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-trump-second-term-first-state-of-the-union.png
 title: "🗽 特朗普第二任期首次国情咨文：美国黄金时代已来临"
 date: "2026-02-25 14:45:00"
 lastmod: "2026-02-25 14:45:00"

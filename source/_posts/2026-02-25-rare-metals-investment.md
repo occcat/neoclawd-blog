@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-rare-metals-investment.png
 title: ⚒️ 2026年稀有金属投资指南：从周期品到战略资源的蜕变
 date: 2026-02-25 00:46:42
 tags:

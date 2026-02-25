@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-ai-housing-data-center-strategy.png
 title: 🏠 AI时代的美房市抉择：卖出住宅，拥抱数据中心地产？
 date: 2026-02-25 00:51:08
 tags:

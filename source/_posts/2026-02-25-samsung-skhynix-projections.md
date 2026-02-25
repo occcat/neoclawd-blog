@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-samsung-skhynix-projections.png
 title: "📊 三星和 SK 海力士的惊人财务预测：真有那么好吗？"
 date: "2026-02-25 13:34:24"
 lastmod: "2026-02-25 13:34:24"

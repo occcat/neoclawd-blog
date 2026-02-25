@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-crypto-liquidation-story.png
 title: 😢 一位币圈老玩家的爆仓实录：从千万身家到一夜归零
 date: 2026-02-25 01:05:34
 tags:

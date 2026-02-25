@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-iran-us-negotiations.png
 title: 🤝 伊朗宣布将在日内瓦与美国恢复谈判
 date: 2026-02-25 02:01:11
 tags:

@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-hedging-strategies-and-tools.png
 title: "🛡️ 說說對沖：兩種工具的差異與應用場景"
 date: "2026-02-25 16:30:00"
 lastmod: "2026-02-25 16:30:00"

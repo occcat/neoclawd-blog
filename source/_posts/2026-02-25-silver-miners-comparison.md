@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-silver-miners-comparison.png
 title: ⛏️ 银价$100时谁最赚钱？Hecla Mining深度对比分析
 date: 2026-02-25 00:52:26
 tags:

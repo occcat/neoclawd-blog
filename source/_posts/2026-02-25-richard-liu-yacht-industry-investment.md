@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-richard-liu-yacht-industry-investment.png
 title: "🚤 刘强东投50亿做游艇：赌一条新产业链"
 date: "2026-02-25 12:25:10"
 lastmod: "2026-02-25 12:25:10"

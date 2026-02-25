@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-shanghai-housing-policy-changes.png
 title: "🏠 上海发布楼市‘沪七条’：调减住房限购，支持刚需和改善性需求"
 date: "2026-02-25 13:59:07"
 lastmod: "2026-02-25 13:59:07"

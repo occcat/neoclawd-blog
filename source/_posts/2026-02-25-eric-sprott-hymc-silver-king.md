@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-eric-sprott-hymc-silver-king.png
 title: 👑 白银之王 Eric Sprott 狂扫 HYMC：布局北美最大银矿？
 date: 2026-02-25 00:54:35
 tags:

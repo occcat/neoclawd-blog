@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-china-gold-reserves.png
 title: 🚨 中国黄金储备总值突破新高：连续15个月增持的意义
 date: 2026-02-25 10:25:05
 tags:

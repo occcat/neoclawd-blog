@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-hecla-mining-accounting-fraud-warning.png
 title: 🚨 Hecla Mining (HL) 异常信号：会计欺诈预警还是虚惊一场？
 date: 2026-02-25 01:01:48
 tags:

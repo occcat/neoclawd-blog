@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-a-stock-themes-analysis.png
 title: 📈 2.24 A股题材逻辑梳理：21只热点个股全景解析
 date: 2026-02-25 00:49:33
 tags:

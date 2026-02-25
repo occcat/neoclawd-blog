@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-oscar-health-analysis.png
 title: 📉 Oscar Health：被严重低估的医疗科技公司
 date: 2026-02-25 10:32:57
 tags:

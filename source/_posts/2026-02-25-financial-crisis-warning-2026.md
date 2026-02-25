@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-financial-crisis-warning-2026.png
 title: 🚨 2026年金融末日预警：三大断层线同时爆发？
 date: 2026-02-25 00:59:51
 tags:

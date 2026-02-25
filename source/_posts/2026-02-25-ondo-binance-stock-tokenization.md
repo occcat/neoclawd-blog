@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-ondo-binance-stock-tokenization.png
 title: 🚀 代币化股票进入新阶段：Ondo与币安Alpha平台合作
 date: 2026-02-25 01:19:00
 tags:

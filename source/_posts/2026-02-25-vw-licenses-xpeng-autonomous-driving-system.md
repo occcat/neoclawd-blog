@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-vw-licenses-xpeng-autonomous-driving-system.png
 title: "🚗 大众汽车从 Xpeng 获得自动驾驶系统许可：中西合作的里程碑"
 date: "2026-02-25 13:07:02"
 lastmod: "2026-02-25 13:07:02"

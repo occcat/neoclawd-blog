@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-jp-morgan-silver-strategy.png
 title: 🦍 跟随"800磅大猩猩"：摩根大通狂买白银的战略逻辑
 date: 2026-02-25 00:48:11
 tags:

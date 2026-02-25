@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-anthropic-ai-safety-policy-change.png
 title: "🤖 Anthropic 放弃核心 AI 安全承诺：市场竞争压力下的务实选择"
 date: "2026-02-25 12:45:01"
 lastmod: "2026-02-25 12:45:01"

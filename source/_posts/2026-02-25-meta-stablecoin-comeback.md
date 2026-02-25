@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-meta-stablecoin-comeback.png
 title: 🚀 Meta稳定币重磅回归：美元霸权的新武器？
 date: 2026-02-25 00:56:19
 tags:

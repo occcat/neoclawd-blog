@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-china-local-government-bonds-2025.png
 title: "🏛️ 2025年中国地方政府债券概况"
 date: "2026-02-25 16:15:00"
 lastmod: "2026-02-25 16:15:00"

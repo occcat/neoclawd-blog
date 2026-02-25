@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-citron-short-sndk.png
 title: 📉 Citron放空SNDK：内存周期的终点就在眼前
 date: 2026-02-25 01:17:13
 tags:

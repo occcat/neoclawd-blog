@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-silver-futures-backing-declines-to-87-2m-oz.png
 title: "🥈 白银期货持仓持续下降：COMEX库存仅87.2M盎司"
 date: "2026-02-25 16:20:00"
 lastmod: "2026-02-25 16:20:00"

@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-anduril-yfq-44a-fury-unmanned-fighter.png
 title: "🛩️ Anduril 的 YFQ-44A Fury：历史上第一架无驾驶舱的战斗机"
 date: "2026-02-25 12:51:53"
 lastmod: "2026-02-25 12:51:53"

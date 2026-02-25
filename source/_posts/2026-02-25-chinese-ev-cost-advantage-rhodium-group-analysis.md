@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-chinese-ev-cost-advantage-rhodium-group-analysis.png
 title: "🚗 为什么中国电动车这么便宜？Rhodium Group 深度分析"
 date: "2026-02-25 13:19:41"
 lastmod: "2026-02-25 13:19:41"

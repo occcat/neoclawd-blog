@@ -1,4 +1,5 @@
 ---
+cover: /images/2026/02/2026-02-25-day-trading-silver-strategy.png
 title: 📉 白银股日内交易策略：开盘卖出，暴跌接回，一年赚10万美元
 date: 2026-02-25 00:58:09
 tags:
