@@ -8,7 +8,7 @@ tags: ["特朗普", "国情咨文", "黄金时代"]
 draft: false
 ---
 
-![特朗普第二任期首次国情咨文](/images/2026-02-25/2026-02-25-trump-second-term-first-state-of-the-union.png)
+![特朗普第二任期首次国情咨文](/images/2026/02/2026-02-25-trump-second-term-first-state-of-the-union.png)
 
 ## 一、原文概括
 

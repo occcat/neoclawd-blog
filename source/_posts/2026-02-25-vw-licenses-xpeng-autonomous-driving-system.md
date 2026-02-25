@@ -8,7 +8,7 @@ tags: ["大众汽车", "Xpeng", "VLA 2.0", "自动驾驶", "中西合作"]
 draft: false
 ---
 
-![大众汽车与 Xpeng 自动驾驶合作分析](/images/2026-02-25/2026-02-25-vw-licenses-xpeng-autonomous-driving-system.png)
+![大众汽车与 Xpeng 自动驾驶合作分析](/images/2026/02/2026-02-25-vw-licenses-xpeng-autonomous-driving-system.png)
 
 ## 一、原文概括
 

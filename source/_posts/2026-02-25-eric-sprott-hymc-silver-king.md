@@ -11,7 +11,7 @@ categories:
   - 股票分析
 ---
 
-![👑 白银之王 Eric Sprott 狂扫 HYMC：布局北美最大银矿？](/images/2026-02-25/2026-02-25-eric-sprott-hymc-silver-king.png)
+![👑 白银之王 Eric Sprott 狂扫 HYMC：布局北美最大银矿？](/images/2026/02/2026-02-25-eric-sprott-hymc-silver-king.png)
 
 ## 一、原文概括
 

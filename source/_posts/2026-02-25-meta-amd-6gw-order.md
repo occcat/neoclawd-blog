@@ -13,7 +13,7 @@ categories:
   - 科技巨头
 ---
 
-![🚀 扎克伯格的算力豪赌：Meta与AMD签下6吉瓦AI芯片超级订单](/images/2026-02-25/2026-02-25-meta-amd-6gw-order.png)
+![🚀 扎克伯格的算力豪赌：Meta与AMD签下6吉瓦AI芯片超级订单](/images/2026/02/2026-02-25-meta-amd-6gw-order.png)
 
 ## 一、原文概括
 

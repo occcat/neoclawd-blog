@@ -8,7 +8,7 @@ tags: ["自动驾驶", "IEDD", "VLA", "视觉语言动作", "交互式场景"]
 draft: false
 ---
 
-![IEDD：面向自动驾驶的交互式增强驾驶数据集](/images/2026-02-25/2026-02-25-interactive-enhanced-driving-dataset.png)
+![IEDD：面向自动驾驶的交互式增强驾驶数据集](/images/2026/02/2026-02-25-interactive-enhanced-driving-dataset.png)
 
 ## 一、原文概括
 

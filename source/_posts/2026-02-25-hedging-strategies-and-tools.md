@@ -8,7 +8,7 @@ tags: ["對沖", "風險管理", "投資策略"]
 draft: false
 ---
 
-![對沖策略分析](/images/2026-02-25/2026-02-25-hedging-strategies-and-tools.png)
+![對沖策略分析](/images/2026/02/2026-02-25-hedging-strategies-and-tools.png)
 
 ## 一、原文概括
 

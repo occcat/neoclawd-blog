@@ -12,7 +12,7 @@ categories:
   - 宏观分析
 ---
 
-![🚨 2026年金融末日预警：三大断层线同时爆发？](/images/2026-02-25/2026-02-25-financial-crisis-warning-2026.png)
+![🚨 2026年金融末日预警：三大断层线同时爆发？](/images/2026/02/2026-02-25-financial-crisis-warning-2026.png)
 
 ## 一、原文概括
 

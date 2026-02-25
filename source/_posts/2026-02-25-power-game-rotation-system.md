@@ -1,6 +1,7 @@
 ---
 title: 🔄 职场权力博弈：流官制（轮岗）的秘密与代价
 date: 2026-02-25 20:20:00
+cover: /images/2026/02/2026-02-25-power-game-rotation-system.png
 tags:
   - 职场
   - 权力博弈
@@ -9,8 +10,6 @@ tags:
 categories:
   - 职场智慧
 ---
-
-<!-- 信息图待生成 -->
 
 ## 一、原文概括
 

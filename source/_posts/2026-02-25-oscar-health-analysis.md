@@ -13,7 +13,7 @@ categories:
   - 股票分析
 ---
 
-![📉 Oscar Health：被严重低估的医疗科技公司](/images/2026-02-25/2026-02-25-oscar-health-analysis.png)
+![📉 Oscar Health：被严重低估的医疗科技公司](/images/2026/02/2026-02-25-oscar-health-analysis.png)
 
 ## 一、原文概括
 

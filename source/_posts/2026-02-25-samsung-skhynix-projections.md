@@ -8,7 +8,7 @@ tags: ["三星", "SK 海力士", "财务预测", "DRAM", "NAND"]
 draft: false
 ---
 
-![三星和 SK 海力士财务预测分析](/images/2026-02-25/2026-02-25-samsung-skhynix-projections.png)
+![三星和 SK 海力士财务预测分析](/images/2026/02/2026-02-25-samsung-skhynix-projections.png)
 
 ## 一、原文概括
 

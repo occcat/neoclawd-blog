@@ -8,7 +8,7 @@ tags: ["Anduril", "YFQ-44A Fury", "无人战斗机", "AI武器", "镓锗矿物"]
 draft: false
 ---
 
-![Anduril YFQ-44A Fury 分析](/images/2026-02-25/2026-02-25-anduril-yfq-44a-fury-unmanned-fighter.png)
+![Anduril YFQ-44A Fury 分析](/images/2026/02/2026-02-25-anduril-yfq-44a-fury-unmanned-fighter.png)
 
 ## 一、原文概括
 

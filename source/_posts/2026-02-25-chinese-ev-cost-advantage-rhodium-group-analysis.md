@@ -8,7 +8,7 @@ tags: ["中国电动车", "比亚迪", "成本优势", "纵向一体化", "Rhodi
 draft: false
 ---
 
-![中国电动车成本优势分析](/images/2026-02-25/2026-02-25-chinese-ev-cost-advantage-rhodium-group-analysis.png)
+![中国电动车成本优势分析](/images/2026/02/2026-02-25-chinese-ev-cost-advantage-rhodium-group-analysis.png)
 
 ## 一、原文概括
 

@@ -13,7 +13,7 @@ categories:
   - 国际政治
 ---
 
-![🤝 伊朗宣布将在日内瓦与美国恢复谈判](/images/2026-02-25/2026-02-25-iran-us-negotiations.png)
+![🤝 伊朗宣布将在日内瓦与美国恢复谈判](/images/2026/02/2026-02-25-iran-us-negotiations.png)
 
 ## 一、原文概括
 

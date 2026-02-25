@@ -10,7 +10,7 @@ categories:
   - 股票分析
 ---
 
-![📈 2.24 A股题材逻辑梳理：21只热点个股全景解析](/images/2026-02-25/2026-02-25-a-stock-themes-analysis.png)
+![📈 2.24 A股题材逻辑梳理：21只热点个股全景解析](/images/2026/02/2026-02-25-a-stock-themes-analysis.png)
 
 ## 一、原文概括
 

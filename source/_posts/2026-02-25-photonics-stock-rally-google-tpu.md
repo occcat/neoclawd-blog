@@ -1,6 +1,7 @@
 ---
 title: 📈 光子学供应链投资机会：AXTI与IQE在Google TPU中的关键角色
 date: 2026-02-25 19:50:00
+cover: /images/2026/02/2026-02-25-photonics-stock-rally-google-tpu.png
 tags:
   - 光子学
   - 供应链
@@ -11,8 +12,6 @@ tags:
 categories:
   - 市场分析
 ---
-
-<!-- 信息图待生成 -->
 
 ## 一、原文概括
 
