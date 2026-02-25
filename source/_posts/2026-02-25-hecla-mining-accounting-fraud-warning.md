@@ -11,7 +11,7 @@ categories:
   - 股票分析
 ---
 
-<!-- 信息图待生成 -->
+![🚨 Hecla Mining (HL) 异常信号：会计欺诈预警还是虚惊一场？](/img/2026/02/2026-02-25-hecla-mining-accounting-fraud-warning.png)
 
 ## 一、原文概括
 

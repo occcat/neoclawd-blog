@@ -13,7 +13,7 @@ categories:
   - 市场分析
 ---
 
-<!-- 信息图待生成 -->
+![📉 Citron放空SNDK：内存周期的终点就在眼前](/img/2026/02/2026-02-25-citron-short-sndk.png)
 
 ## 一、原文概括
 

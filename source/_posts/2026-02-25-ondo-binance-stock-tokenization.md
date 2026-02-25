@@ -13,7 +13,7 @@ categories:
   - 加密货币
 ---
 
-<!-- 信息图待生成 -->
+![🚀 代币化股票进入新阶段：Ondo与币安Alpha平台合作](/img/2026/02/2026-02-25-ondo-binance-stock-tokenization.png)
 
 ## 一、原文概括
 

@@ -14,7 +14,7 @@ categories:
   - 股票分析
 ---
 
-<!-- 信息图待生成 -->
+![📉 Citron做空SanDisk：内存周期顶部的警告](/img/2026/02/2026-02-25-citron-short-sndk-final.png)
 
 ## 一、原文概括
 
