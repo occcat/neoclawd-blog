@@ -10,8 +10,7 @@ categories:
   - 文学
 ---
 
-<!-- 信息图待生成：Gemini API 503 过载 -->
-<!-- ![归途 —— 肖弘与Manus北京之行](/images/2026-03-26/2026-03-26-172642-summary.png) -->
+![归途 —— 肖弘与Manus北京之行](/images/2026-03-26/2026-03-26-172642-summary.png)
 
 *本文由Notbooklm、Gemini和Claude AI共同创作，纯属虚构*
 

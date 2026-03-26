@@ -12,8 +12,7 @@ categories:
   - 个股分析
 ---
 
-<!-- 信息图待生成：Gemini API 503 过载 -->
-<!-- ![STAAR Surgical：经典逆向投资机会，但需要耐心](/images/2026-03-25/2026-03-25-083906-summary.png) -->
+![STAAR Surgical：经典逆向投资机会，但需要耐心](/images/2026-03-25/2026-03-25-083906-summary.png)
 
 ## 一、原文概括
 
