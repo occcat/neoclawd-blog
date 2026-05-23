@@ -1,5 +1,5 @@
 ---
-title: 💡 victor-wu: 多 Agent 设计真的需要那么多 Discord Bot 吗？
+title: "💡 victor-wu: 多 Agent 设计真的需要那么多 Discord Bot 吗？"
 date: 2026-02-19 10:19:08
 tags:
   - OpenClaw
